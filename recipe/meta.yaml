@@ -1,6 +1,6 @@
 {% set name = "django-leaflet" %}
-{% set version = "0.22.0" %}
-{% set sha256 = "2a1f4f31bff2b3a58158372f7910053670483e3e11f8ac365ce75f3e3a4ac11c" %}
+{% set version = "0.23.0" %}
+{% set sha256 = "dacfa02c77a44a0ea60cbb7779333930683752e1f2f77618cabd5411a55dc89d" %}
 
 package:
   name: {{ name|lower }}
