@@ -22,12 +22,15 @@ geographic data without spatial database.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/django-leaflet-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/django-leaflet-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/django-leaflet-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/django-leaflet-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-leaflet/badges/version.svg)](https://anaconda.org/conda-forge/django-leaflet)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-leaflet/badges/downloads.svg)](https://anaconda.org/conda-forge/django-leaflet)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-django--leaflet-green.svg)](https://anaconda.org/conda-forge/django-leaflet) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/django-leaflet.svg)](https://anaconda.org/conda-forge/django-leaflet) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/django-leaflet.svg)](https://anaconda.org/conda-forge/django-leaflet) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/django-leaflet.svg)](https://anaconda.org/conda-forge/django-leaflet) |
 
 Installing django-leaflet
 =========================
