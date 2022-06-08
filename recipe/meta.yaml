@@ -1,4 +1,4 @@
-{% set version = "0.28.1" %}
+{% set version = "0.28.2" %}
 
 package:
   name: django-leaflet
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/d/django-leaflet/django-leaflet-{{ version }}.tar.gz
-  sha256: 0fff2322c0cc1d008e3a18f067df736a937566a1ee1a6ce2e8ad298c4c713bb8
+  sha256: 14b6b11cf81f40113f832cc77686a9b0c67b35d12d1f10d973f083997e6be8de
 
 build:
   number: 0
@@ -15,10 +15,10 @@ build:
 
 requirements:
   host:
-    - python
+    - python >=3.6
     - pip
   run:
-    - python
+    - python >=3.6
     - django
 
 test:
@@ -27,7 +27,7 @@ test:
 
 about:
   home: https://github.com/makinacorpus/django-leaflet
-  license: LGPL
+  license: LGPL-3.0-only
   license_family: LGPL
   license_file: LICENSE
   summary: django-leaflet allows you to use Leaflet in your Django projects.
