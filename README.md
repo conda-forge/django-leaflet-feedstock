@@ -1,11 +1,11 @@
-About django-leaflet
-====================
+About django-leaflet-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-leaflet-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/makinacorpus/django-leaflet
 
-Package license: LGPL
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-leaflet-feedstock/blob/main/LICENSE.txt)
+Package license: LGPL-3.0-only
 
 Summary: django-leaflet allows you to use Leaflet in your Django projects.
 
