@@ -1,12 +1,12 @@
-{% set version = "0.29.1" %}
+{% set version = "0.30.0" %}
 
 package:
   name: django-leaflet
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/d/django-leaflet/django-leaflet-{{ version }}.tar.gz
-  sha256: 102b6870f247611d43b052de54c55db6589ae1434e27234cb14d42ad7d5a56c4
+  url: https://pypi.io/packages/source/d/django-leaflet/django_leaflet-{{ version }}.tar.gz
+  sha256: a5e934a917b4fe5079e8119bcfbc7941ea63e1c1d9835e8f56252a86eb3f8a58
 
 build:
   number: 0
